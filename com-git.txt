@@ -1,0 +1,6 @@
+git add
+git add <file(s)>
+git commit -m 'add other files'
+git status
+git show
+git init

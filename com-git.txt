@@ -4,3 +4,5 @@ git commit -m 'add other files'
 git status
 git show
 git init
+
+хахаха

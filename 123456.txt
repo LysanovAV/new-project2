@@ -1,3 +1,5 @@
+123
+
 git add . - добавлние в индекс
 git add <file(s)>
 git commit -m 'add other files' - закомичение
